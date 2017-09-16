@@ -4,7 +4,7 @@ import java.util.Date;
  * An interface that provide a number of operations for any array of students
  *
  */
-package StudentArray;
+
 public interface StudentArrayOperation {
 
 	/**
